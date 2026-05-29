@@ -5,6 +5,6 @@ HELLO ISHA NATION
 
 ABOUT ME
 ---------
-*fribee
+* fribee
 
 ![Image](https://i.pinimg.com/736x/88/3e/cd/883ecd9dad02855889bc2c5bd0b1ca6e.jpg)
